@@ -46,4 +46,15 @@ The demo showcases a novel approach for matching profiles across different socia
 
 ## Citation
 
-If you find this work useful, please consider citing the original paper: https://arxiv.org/pdf/2407.04350
+If you find this work useful, please consider citing the original paper: 
+
+@article{somin2025temporal,
+  title={Temporal fingerprints for identity matching across fully encrypted domains},
+  author={Somin, Shahar and Erhardt, Keeley and Cohen, Tom and Kepner, Jeremy and Pentland, Alex‘Sandy’},
+  journal={Nature Communications},
+  volume={16},
+  number={1},
+  pages={1--11},
+  year={2025},
+  publisher={Nature Publishing Group}
+}
